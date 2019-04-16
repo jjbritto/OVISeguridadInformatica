@@ -194,7 +194,7 @@ section#lecturas{
 	position: relative;
 	margin: auto;
 	width: 1000px;
-	height: 500px;
+	height: 600px;
 	background: white;
 }
 
@@ -202,6 +202,14 @@ section#lecturas h1{
 	position: relative;
 	text-align: center;
 	top: 20px;
+	color: rgba( 0,88,131);
+	font-weight: 100;
+}
+
+section#lecturas h2{
+	position: relative;
+	top: 40px;
+	text-align: center;
 	color: rgba( 0,88,131);
 	font-weight: 100;
 }
@@ -235,8 +243,13 @@ section#multimedia h1{
 	position: relative;
 	top: 15px;
 	left:27px;
+	text-align: center;
 	color: rgba( 0,88,131);
 	font-weight: 100;
+}
+
+section#multimedia iframe{
+	margin-left: 170px;
 }
 
 /*------FIN SECTION MULTIMEDIA-------*/
