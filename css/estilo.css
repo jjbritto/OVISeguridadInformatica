@@ -271,8 +271,14 @@ section#actividades h1{
 	position: relative;
 	top: 15px;
 	left:27px;
+	text-align: center;
 	color: rgba( 0,88,131);
 	font-weight: 100;
+}
+
+section#actividades iframe{
+	margin-left: 170px;
+	margin-top: 25px;
 }
 
 /*------FIN SECTION ACTIVIDADES-------*/
